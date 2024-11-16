@@ -1,1 +1,0 @@
-﻿console.log("MyFlock version 0.2");
